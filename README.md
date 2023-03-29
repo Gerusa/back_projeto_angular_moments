@@ -1,5 +1,5 @@
 # Sobre
-* Esta api é um clone do repositório do Matheus Battisti: https://github.com/matheusbattisti/curso_angular_yt. Ela refere-se ao back do projeto do angular (repositório 'angular').
+* Esta api é um clone do repositório do Matheus Battisti: https://github.com/matheusbattisti/curso_angular_yt. Ela refere-se ao back do projeto do angular (repositório 'angular_moments').
 
 # O que é AdonisJS
 * AdonisJS é uma estrutura MVC do Node.js que oferece ao usuário um ecossistema estável para escrever aplicativos web. Em síntese, é uma estrutura de back-end para Node.js, escrita em TypeScript.
